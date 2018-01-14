@@ -1,0 +1,1 @@
+Add a JQuery plugin style to a SugarCRM field - Checkboxes to Switchery
